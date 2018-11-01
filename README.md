@@ -1,9 +1,9 @@
 # Tizen
 
 *Typo
-  *commit url copy
+ *commit url copy
 *Coding Style
-  *..
-  *..
+ *..
+ *..
 
   
